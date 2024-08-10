@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <h1>
     That's me, that's right
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Fsc2E3amJqZHF3bmJqd2c0M20wZzBjbXRnMmMzNDNpMW1ldmIwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8Qnz7dEHLrV7O/giphy.gif" width="30px"/>
   </h1>
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTAxcWN6ajZqNHVnb3c5aDVqb2tkYTNqajBmdjV0d3dibDA0MXB2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MeFiwDSGDApHy/giphy.gif"/>
   <div id="badges">
