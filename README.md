@@ -1,8 +1,8 @@
 <div id="header" align="center">
   <h1>
-    That's me, that's right
+    huh
   </h1>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTAxcWN6ajZqNHVnb3c5aDVqb2tkYTNqajBmdjV0d3dibDA0MXB2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MeFiwDSGDApHy/giphy.gif"/ width="450">
+  <img src="https://media.tenor.com/P0_WZTuMNIIAAAAi/l-lawliet-chibi.gif"/ width="450">
 
 ### Languages & Tools :
 <div>
