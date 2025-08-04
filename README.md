@@ -3,19 +3,6 @@
     That's me, that's right
   </h1>
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTAxcWN6ajZqNHVnb3c5aDVqb2tkYTNqajBmdjV0d3dibDA0MXB2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MeFiwDSGDApHy/giphy.gif"/ width="450">
-  <div id="badges">
-    <a href="https://t.me/Ruberoid36">
-      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-    </a>
-    <a href="https://www.youtube.com/@ruberoid36">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
-    <a href="https://steamcommunity.com/id/ruberoidd/">
-      <img src="https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
-    </a>
-  </div>
-</div>
-
 ---
 
 ### Languages & Tools :
