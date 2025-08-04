@@ -1,8 +1,5 @@
 <div id="header" align="center">
-  <h1>
-    huh
-  </h1>
-  <img src="https://media.tenor.com/P0_WZTuMNIIAAAAi/l-lawliet-chibi.gif"/ width="450">
+  <img src="https://media.tenor.com/P0_WZTuMNIIAAAAi/l-lawliet-chibi.gif"/ width="250">
 
 ### Languages & Tools :
 <div>
