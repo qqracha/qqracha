@@ -30,14 +30,6 @@ jobs:
             plugin_languages_indepth: yes
             plugin_languages_limit: 5
             
-        - name: Fortune
-          uses: lowlighter/metrics@latest
-          with:
-            filename: metrics.plugin.fortune.svg
-            token: NOT_NEEDED
-            base: ""
-            plugin_fortune: yes
-
         - name: meow
           uses: lowlighter/metrics@latest
           with:
@@ -46,5 +38,4 @@ jobs:
             base: ""
             plugin_screenshot: yes
             plugin_screenshot_title:  
-            plugin_screenshot_url: https://github.com/qqracha/qqracha/blob/main/anime.png
-            plugin_screenshot_selector: "#comic img"
+            plugin_screenshot_url: https://raw.githubusercontent.com/qqracha/qqracha/refs/heads/main/anime_center.png
