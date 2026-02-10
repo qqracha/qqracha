@@ -1,5 +1,10 @@
-
-<p align="center">
-  <img src="https://github.com/qqracha/qqracha/blob/main/general.svg" width="50%" alt="meow">
-  <img src="https://github.com/qqracha/qqracha/blob/main/anime_center.png" width="50%" alt="meow">
-</p>
+<table align="center" border="0">
+  <tr>
+    <td valign="top">
+      <img src="general.svg" width="400" alt="Metrics">
+    </td>
+    <td valign="bottom">
+      <img src="anime_center.png" width="400" alt="Anime">
+    </td>
+  </tr>
+</table>
