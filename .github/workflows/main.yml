@@ -12,6 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
+    
         - name: General
           if: ${{ success() || failure() }}
           uses: lowlighter/metrics@latest
@@ -28,3 +29,22 @@ jobs:
             plugin_languages_sections: most-used
             plugin_languages_indepth: yes
             plugin_languages_limit: 5
+            
+        - name: Fortune
+          uses: lowlighter/metrics@latest
+          with:
+            filename: metrics.plugin.fortune.svg
+            token: NOT_NEEDED
+            base: ""
+            plugin_fortune: yes
+
+        - name: meow
+          uses: lowlighter/metrics@latest
+          with:
+            filename: metrics.plugin.screenshot.svg
+            token: NOT_NEEDED
+            base: ""
+            plugin_screenshot: yes
+            plugin_screenshot_title:  
+            plugin_screenshot_url: https://github.com/qqracha/qqracha/blob/main/anime.png
+            plugin_screenshot_selector: "#comic img"
